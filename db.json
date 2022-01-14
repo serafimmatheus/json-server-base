@@ -6,6 +6,34 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "matheus@email.com",
+      "password": "$2a$10$oIkvLW/t6t.VIrV10ad4w.B1nj2wQMANgAB7Zq/GaqzNaM9xOgs6u",
+      "name": "Matheus",
+      "age": 25,
+      "id": 2
     }
-  ]
+  ],
+  "animals": [
+    {
+      "type": "gato",
+      "name": "Yellow",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "type": "gato",
+      "name": "Yellow",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "type": "gato",
+      "name": "Yellows",
+      "userId": 2,
+      "id": 3
+    }
+  ],
+  "trabalhos": []
 }
